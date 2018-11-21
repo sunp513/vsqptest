@@ -45,7 +45,7 @@
     <string>software</string>
     <key>title</key>
     <!-- 安装app时的提示信息 -->
-    <string>VS颍上麻将 正在安装中…</string>
+    <string>VS颍上麻将</string>
    </dict>
   </dict>
  </array>
