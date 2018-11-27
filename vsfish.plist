@@ -40,7 +40,7 @@
     <string>com.vs.vsfish</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>1</string>
+    <string>1.0.0</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
