@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://58.55.127.123/apks/ysmj_ios_181012.ipa</string>
+     <string>http://121.14.240.8/apks/ysmj_ios_181012.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
